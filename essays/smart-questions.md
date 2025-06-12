@@ -1,17 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Interest in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2025-06-11
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Is there such thing as a stupid question?
 
