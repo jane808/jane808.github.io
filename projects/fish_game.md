@@ -13,7 +13,7 @@ summary: "A fishing simulator game for ICS 211"
 ---
 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Fish Game is a project I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
