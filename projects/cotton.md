@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: 
+title: "Robotics"
+date: Spring 2023-Fall 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Robots
+  - NaoQI
+  - Research
+summary: "A research project I worked on, presented, and published"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
