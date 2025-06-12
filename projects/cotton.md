@@ -12,7 +12,7 @@ labels:
 summary: "A research project I worked on, presented, and published"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
