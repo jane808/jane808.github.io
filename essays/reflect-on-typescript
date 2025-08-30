@@ -1,0 +1,33 @@
+---
+layout: essay
+type: essay
+title: "A Reflection on UI Frameworks"
+# All dates must be YYYY-MM-DD format!
+date: 2025-08-25
+published: true
+labels:
+  - Software Engineering
+  - Learning
+  - Computer Science
+---
+
+## Starting to Appreciate TypeScript
+Before this class, I had only worked with languages like Java, Python, and a little bit of JavaScript. TypeScript was completely new to me, and honestly, at first it just felt like “JavaScript but stricter.” I wasn’t sure why I needed another language when I was still getting used to JavaScript. But as I’ve started learning more, I’m beginning to see why people like it—especially from a software engineering perspective.
+
+## Getting Started
+I’m still very much a beginner with TypeScript. The syntax sometimes throws me off, and I find myself making simple mistakes like forgetting to add types or not understanding why the compiler complains. But at the same time, I’ve noticed that the strictness is actually helpful. Instead of letting errors slip through, TypeScript catches them early, before I even run the program.
+
+## Athletic Software Engineering
+The WODs have been a whole different experience. They feel fast and stressful. I’ve never really done this “athletic” style of software engineering before, where the focus is on practicing under time pressure and repeating until you get faster.
+
+Even though I can see the benefits of athletic software engineering, it’s also made me reflect on how I personally learn best. The fast pace and constant repetition don’t always match the way I usually approach new material, which has made me think more about my own learning style.
+
+## Learning Style Challenges
+One thing I’ve noticed about myself is that I tend to learn best in a more traditional lecture and homework environment. I like when concepts are explained step by step, and then I can go home and practice them at my own pace. That structure gives me time to absorb new ideas before applying them under pressure.
+
+Because this course uses a flipped classroom approach, I’ve sometimes felt like I don’t have enough time to really get comfortable with the material before we dive into a WOD. Instead of practicing first and then being tested, it sometimes feels like I’m being tested while I’m still trying to learn. That can make the WODs more stressful for me, because I wish I had a little more time to explore TypeScript on my own before being timed.
+
+## Final Thoughts
+I’m still new to TypeScript, and there’s a lot I don’t fully understand yet. But I can already see why it’s considered a good language for software engineering. It makes code more reliable, more maintainable, and less error-prone—all things that matter for real projects.
+
+And just like with the WODs, I think the more I practice, the more natural it’s going to feel. Right now it’s a little stressful, especially with the flipped classroom format not matching my preferred learning style, but I can see the long-term value. Learning TypeScript and doing these practice exercises both push me out of my comfort zone, but they also make me realize how much I’m growing as a student.
